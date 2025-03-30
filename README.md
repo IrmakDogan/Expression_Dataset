@@ -1,7 +1,7 @@
-# Semantically-Driven Disambiguation for Human-Robot Interaction
+#  A Model-Agnostic Approach for Semantically Driven Disambiguation in Human-Robot Interaction
 
 ## Overview
-This repository contains the user experiment dataset for the "Semantically-Driven Disambiguation for Human-Robot Interaction" paper.
+This repository contains the user experiment dataset for the "A Model-Agnostic Approach for Semantically Driven Disambiguation in Human-Robot Interaction" paper.
 
 ## Paper
 - **Title**: Semantically-Driven Disambiguation for Human-Robot Interaction
@@ -13,6 +13,7 @@ This repository contains the user experiment dataset for the "Semantically-Drive
 - **Home Videos**: Home clip videos from MatterPort
 - **Expression Dataset**: Expressions collected from MTurk workers describing objects
 - **Object Features Dataset**: Pickle file containing a complete list of object properties
+- **process_data.py**: An example code parsing the Object Features Dataset
 
 ## Dataset Structure
 ```
@@ -23,6 +24,14 @@ This repository contains the user experiment dataset for the "Semantically-Drive
 ├── object_features_data.obj
 ├── README.md
 ```
+
+## Cite
+@article{dogan2024semantically,
+  title={Model-Agnostic Approach for Semantically Driven Disambiguation in Human-Robot Interaction},
+  author={Dogan, Fethiye Irmak and Patel, Maithili and Liu, Weiyu and Leite, Iolanda and Chernova, Sonia},
+  journal={arXiv preprint arXiv:2409.17004},
+  year={2024}
+}
 
 ## Contact
 For questions, reach out to [irmakdogan92@gmail.com].
