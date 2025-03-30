@@ -26,12 +26,14 @@ This repository contains the user experiment dataset for the "A Model-Agnostic A
 ```
 
 ## Cite
+```bibtex
 @article{dogan2024semantically,
-  title={Model-Agnostic Approach for Semantically Driven Disambiguation in Human-Robot Interaction},
+  title={Semantically-Driven Disambiguation for Human-Robot Interaction},
   author={Dogan, Fethiye Irmak and Patel, Maithili and Liu, Weiyu and Leite, Iolanda and Chernova, Sonia},
   journal={arXiv preprint arXiv:2409.17004},
   year={2024}
 }
+```
 
 ## Contact
 For questions, reach out to [irmakdogan92@gmail.com].
