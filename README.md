@@ -4,7 +4,7 @@
 This repository contains the user experiment dataset for the "A Model-Agnostic Approach for Semantically Driven Disambiguation in Human-Robot Interaction" paper.
 
 ## Paper
-- **Title**: Semantically-Driven Disambiguation for Human-Robot Interaction
+- **Title**: A Model-Agnostic Approach for Semantically Driven Disambiguation in Human-Robot Interaction
 - **Authors**: F. I. Dogan, M. Patel, W. Liu, I. Leite, S. Chernova
 - **Link**: [https://doi.org/10.48550/arXiv.2409.17004](https://doi.org/10.48550/arXiv.2409.17004)
 
